@@ -1,0 +1,6 @@
+[submodule "vscodium-translucent"]
+	path = vscodium-translucent
+	url = https://github.com/Vikyek/vscodium-translucent
+[submodule "vscodium-electron"]
+	path = vscodium-electron
+	url = https://github.com/Vikyek/vscodium-electron
